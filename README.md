@@ -1,4 +1,4 @@
-<h2 align="center">🛠 Tech Stack</h2>
+<p align="center"><strong>🛠 Tech Stack</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -8,8 +8,8 @@
 </p>
 
 <br><br>
-    
-<h2 align="center">📫 Contact</h2>
+
+<p align="center"><strong>📫 Contact</strong></p>
 
 <p align="center">
   <a href="mailto:man9ruf@gmail.com">
