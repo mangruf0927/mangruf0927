@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="center">🛠 Tech Stack</h2>
 
-<!--
-**mangruf0927/mangruf0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+<br><br>
+    
+<h2 align="center">📫 Contact</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:man9ruf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00599C?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/ccb147ffea1c4532bef72f2defb89bfa?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
+</p>
