@@ -1,3 +1,10 @@
+<p align="center">
+  <strong>🧑‍💻 Name</strong><br>
+  Kim HanKyeol
+</p>
+
+<br><br>
+
 <p align="center"><strong>🛠 Tech Stack</strong></p>
 
 <p align="center">
