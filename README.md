@@ -22,7 +22,4 @@
   <a href="mailto:man9ruf@gmail.com">
     <img src="https://img.shields.io/badge/Email-00599C?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/ccb147ffea1c4532bef72f2defb89bfa?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
 </p>
